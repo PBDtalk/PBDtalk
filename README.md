@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PBDtalk
+- 👋 Hi, I am Ryan.
 - 👀 I’m interested in: Full Stack Dev (for school and then hopefully work).
 - 🌱 I’m currently learning: HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on: Just looking to learn. 
