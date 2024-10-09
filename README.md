@@ -1,7 +1,6 @@
 - 👋 Hi, I am Ryan.
-- 👀 I’m interested in: Full Stack Dev (for school and then hopefully work).
-- 🌱 I’m currently learning: HTML, CSS and Javascript.
-- 💞️ I’m looking to collaborate on: Just looking to learn. 
+- 👀 I am looking for ways to connect both my eyes for design and need to solve problems.
+- 🌱 I’m currently growing more front-end , general programming and design skills
 - 📫 How to reach me: Here.
 
 <!---
